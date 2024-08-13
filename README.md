@@ -20,6 +20,48 @@ Finally, the concept of a Public Opinion Standard also raises ethical considerat
 Developing a Public Opinion Standard (POS) begins with extensive data collection from diverse sources where public sentiment is actively expressed. This includes social media platforms, news articles, forums, and product reviews, ensuring that the data encompasses a wide range of demographics, cultures, and regions. Tools such as APIs and web scraping can facilitate the collection of large volumes of text data, which must be carefully managed to comply with privacy laws and regulations. Anonymizing data and ensuring ethical handling practices are crucial to protecting individual privacy during this process.
 
 #
+### Example Template for Public Sentiment Dictionary (Canada)
+
+```
+Public Sentiment Dictionary for Canada
+
+Positive Sentiment
+- Appreciated
+- Celebrated
+- Confident
+- Honoured
+- Inspired
+- Proud
+- Thriving
+
+Negative Sentiment
+- Angry
+- Concerned
+- Disappointed
+- Frustrated
+- Ignored
+- Sad
+- Unhappy
+
+Neutral Sentiment
+- Acknowledged
+- Mentioned
+- Noted
+- Reported
+- Stated
+
+Emotion-Specific
+- Fear: Anxious, Nervous, Worried
+- Joy: Happy, Delighted, Excited
+- Surprise: Shocked, Amazed, Astonished
+
+Culturally Relevant Terms
+- Hockey: Pride, Unity (positive), Violence (negative)
+- Tim Hortons: Comfort (positive), Overpriced (negative)
+- Maple Leaf: National pride (positive), Symbolic (neutral)
+```
+
+#
 
 > Alex: "*A public opinion can be developed and used as an international progamming template.*"
 
