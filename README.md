@@ -25,6 +25,8 @@ Developing a Public Opinion Standard (POS) begins with extensive data collection
 
 > "*A lot of nations would agree on the same opinion.*"
 
+> "*Dictionaries could be sorted by public sentiment, live and updated, which indicates real-time public word opinion.*"
+
 #
 ### Related Links
 
