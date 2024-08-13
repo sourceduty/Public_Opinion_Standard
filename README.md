@@ -23,6 +23,8 @@ Developing a Public Opinion Standard (POS) begins with extensive data collection
 
 > Alex: "*A public opinion can be developed and used as an international progamming template.*"
 
+> "*A lot of nations would agree on the same opinion.*"
+
 #
 ### Related Links
 
