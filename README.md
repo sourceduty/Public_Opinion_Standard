@@ -27,12 +27,16 @@ Developing a Public Opinion Standard (POS) begins with extensive data collection
 
 > "*Dictionaries could be sorted by public sentiment, live and updated, which indicates real-time public word opinion.*"
 
+> "*Develop a Public Sentiment Dicitonary*"
+
 #
 ### Related Links
 
 [Decision Automation](https://chatgpt.com/g/g-yu3DyIRMI-decision-automation)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Dictionary Creator](https://chatgpt.com/g/g-eFLhLRqRy-dictionary-creator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
