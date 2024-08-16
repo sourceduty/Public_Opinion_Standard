@@ -97,6 +97,8 @@ The dataset could also be enriched with demographic information, such as the age
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Dictionary Creator](https://chatgpt.com/g/g-eFLhLRqRy-dictionary-creator)
+<br>
+[Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
